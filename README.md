@@ -46,11 +46,6 @@
 ## 📊 Mes stats GitHub
 
 <p align="center">
-  <a href="https://github.com/mohametBa/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mohametBa&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0E1B2C&title_color=E8541D&icon_color=F2B705&locale=fr" alt="Stats GitHub" /></a>
-  <a href="https://github.com/mohametBa/github-readme-stats"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohametBa&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0E1B2C&title_color=E8541D&locale=fr" alt="Langages les plus utilisés" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohametBa&theme=dark&hide_border=true&background=0E1B2C&ring=E8541D&fire=F2B705&currStreakLabel=E8541D&locale=fr" alt="Streak" /></a>
 </p>
 
