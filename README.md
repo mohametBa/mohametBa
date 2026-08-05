@@ -25,7 +25,7 @@
 - 🔭 En ce moment : la marketplace logistique Kontena (opérateurs partenaires, commissions, suivi temps réel)
 - 🧪 Aussi sur mon profil : [ColisGP](https://github.com/mohametBa/ColisGP) (transport de colis par les voyageurs), APIs Node/Express, POC Supabase
 - 👯 Ouvert aux collaborations : mobile, logistique, diaspora tech
-- 💬 Parle-moi en : 🇫🇷 FR · 🇮🇹 IT · 🇬🇧 EN · Wolof
+- 💬 Parle-moi en : 🇫🇷 FR · 🇮🇹 IT · 🇬🇧 EN · 🇸🇳 Wolof
 
 ## 🛠️ Ma stack
 
