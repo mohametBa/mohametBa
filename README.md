@@ -53,9 +53,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohametBa&bg_color=0E1B2C&color=F7F5F0&line=E8541D&point=F2B705&hide_border=true&custom_title=Mon%20activit%C3%A9" width="95%" alt="Graphe d'activité" /></a>
 </p>
 
-### 🏆 Trophées
-
-
 ## 📫 Me contacter
 
 <p align="center">
