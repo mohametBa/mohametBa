@@ -1,6 +1,7 @@
 # Salut, moi c'est Mohamet 👋
 
-<h3 align="center">Développeur Web/mobile Javascript/Typescript React Native & Android — Fondateur de Kontena et Devland 🚢</h3>
+<h3 align="center">Développeur Web/mobile Javascript/Typescript React Native & Android</h3>
+<h3 align="center">Fondateur de Kontena 🚢 et Devland 🗺️ </h3>
 <h4 align="center">J'expédie des conteneurs le jour, des apps le soir.</h4>
 
 <p align="center">
