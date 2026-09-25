@@ -22,9 +22,9 @@
 ## 🚢 Ce que je construis
 
 - 📱 **Développeur d'applications mobiles** : React Native et Android natif (Kotlin)
-- 📦 **[Kontena](https://kontena.it)** — achète ton m² de conteneur pour Dakar : prix fixe, tout compris, suivi en temps réel. Web en Next.js + Supabase, app mobile en React Native
+- 📦 **[Kontena](https://barkeltech.com)** — achète ton m² de conteneur pour Dakar 
 - 🔭 En ce moment : la marketplace logistique Kontena (opérateurs partenaires, commissions, suivi temps réel)
-- 🧪 Aussi sur mon profil : [ColisGP](https://github.com/mohametBa/ColisGP) (transport de colis par les voyageurs), APIs Node/Express, POC Supabase
+- 🧪 Aussi sur mon profil : [ColisGP](transport de colis par les voyageurs), APIs Node/Express, POC Supabase
 - 👯 Ouvert aux collaborations : mobile, logistique, diaspora tech
 - 💬 Parle-moi en : 🇫🇷 FR · 🇮🇹 IT · 🇬🇧 EN · 🇸🇳 Wolof
 
